@@ -6,7 +6,7 @@ We know you've already spent plenty of your personal time during
 interviews. Worry not; this is the last step of our process and it is
 designed to be relatively quick. We appreciate both your time and patience!
 
-We've hand-crafted a coding challenge in Ruby and in our problem domain, for your intellect to
+We've hand-crafted a coding challenge in our problem domain, for your intellect to
 chew on. We've designed the challenge to test your problem solving skills in addition to your communication skills.
 Please, take the time to read through this entire readme.  
 
