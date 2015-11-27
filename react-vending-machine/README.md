@@ -39,3 +39,16 @@ We will follow along as you add more commits, commenting and collaborating with 
 * Thoughtfulness.
 * Simplicity and speed.
 * How do you communicate and incorporate feedback.
+
+## Some guidelines to help you get started
+
+As you will notice, this is not a simple algorithms or computer science test.  We are trying to get an idea for how you think and how you communicate as a teammate.  
+Some things you might want to consider doing to help us along:
+
+* Open pull-requests early.  
+* Document your thinking (either in a PR or an Issue)
+  * Why did you choose the frameworks and libraries you did?
+  * What functionality did you choose to focus on?  To omit?  Why?
+  * What were your design/archetecture considerations?
+* Open issues with any questions you have?
+  * What open questions do you have?
