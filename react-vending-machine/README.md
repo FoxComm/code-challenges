@@ -43,6 +43,7 @@ We will follow along as you add more commits, commenting and collaborating with 
 ## Some guidelines to help you get started
 
 As you will notice, this is not a simple algorithms or computer science test.  We are trying to get an idea for how you think and how you communicate as a teammate.  
+  
 Some things you might want to consider doing to help us along:
 
 * Open pull-requests early.  
