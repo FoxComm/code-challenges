@@ -51,5 +51,6 @@ Some things you might want to consider doing to help us along:
   * Why did you choose the frameworks and libraries you did?
   * What functionality did you choose to focus on?  To omit?  Why?
   * What were your design/archetecture considerations?
-* Open issues with any questions you have?
-  * What open questions do you have?
+* Open issues with any questions you have.
+  * What isn't clear to you?
+  * Which assumptions are you making because of lacking information?
