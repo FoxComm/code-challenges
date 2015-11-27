@@ -54,3 +54,4 @@ Some things you might want to consider doing to help us along:
 * Open issues with any questions you have.
   * What isn't clear to you?
   * Which assumptions are you making because of lacking information?
+  * Don't feel obligated to wait for answers.  Feel free to make assumptions and proceed.
