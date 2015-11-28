@@ -20,17 +20,18 @@ The vending machine should be API driven and respond to basic commands, such as 
 
 Your primary objectives:
 
-1. Write tests that describe the basic functionality, in your eyes, of a vending machine.
-2. Represent a basic data model that underlays the functionality.
-3. Choose whatever language you wish.  Some options you might consider: Ruby, GoLang, Python, Scala, Erlang, Haskell, and Clojure.
-3. Do NOT use a full-stack framework such as rails or django.  You can use specific components of frameworks, however.  (Ex: ActiveRecord)
-4. Create at least one working API endpoint.
+1. Represent a basic data model that underlays the functionality.
+2. Prototype (quickly) a simple UI OR API endpoints that allows the user to interact with the machine.
+3. Create at least one action in the UI that behaves the way the user would expect. 
+4. Choose whatever language you wish. Some options you might consider: Ruby, GoLang, Python, Scala, Erlang, Haskell, Javascript, and Clojure.
+5. Do NOT use a full-stack framework such as rails or django. You can use specific components of frameworks, however. (Ex: ActiveRecord)
 
 Things you don't need:
 
-1. Persistence.
-2. All endpoints to be fully working.
-3. Full implementation of business logic.
+1. Both an API Backend and working UI.  (Feel free to build only one.  API endpoints *or* UI flow.)
+2. Persistence.  (You can  persist in-memory for now.)
+3. Full implementation of the machine.  (One or two actions is enough.)
+4. Unit tests.  (Really. We won't judge you.)
 
 
 Please commit your work to branches in this repo and send us Pull Requests early. You can mark them as 'wip' until they are 'ready for review.'
@@ -38,8 +39,22 @@ We will follow along as you add more commits, commenting and collaborating with 
 
 ## What we are looking for
 
-* Tests to verify correctness.
-* Small commits.
-* Simplicity: how did tests drive your design and help you arrive at the simplest solution both for the API and implementation.
-* How does git and github factor into your development process.
-* How do you communicate with the team and incorporate feedback.
+* Thoughtfulness.
+* Simplicity and speed.
+* How do you communicate and incorporate feedback.
+
+## Some guidelines to help you get started
+
+As you will notice, this is not a simple algorithms or computer science test.  We are trying to get an idea for how you think and how you communicate as a teammate.  
+  
+Some things you might want to consider doing to help us along:
+
+* Open pull-requests early.  
+* Document your thinking (either in a PR or an Issue)
+  * Why did you choose the frameworks and libraries you did?
+  * What functionality did you choose to focus on?  To omit?  Why?
+  * What were your design/archetecture considerations?
+* Open issues with any questions you have.
+  * What isn't clear to you?
+  * Which assumptions are you making because of lacking information?
+  * Don't feel obligated to wait for answers.  Feel free to make assumptions and proceed.
