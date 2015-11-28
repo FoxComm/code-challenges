@@ -21,14 +21,14 @@ The vending machine should be API driven and respond to basic commands, such as 
 Your primary objectives:
 
 1. Represent a basic data model that underlays the functionality.
-2. Prototype (quickly) a simple UI OR API endpoints that allows the user to interact with the machine.
-3. Create at least one action in the UI that behaves the way the user would expect. 
+2. Prototype (quickly) a simple UI **or** API endpoints that allows the user to interact with the machine.
+3. Create at least one action in the UI/API that behaves the way the user would expect. 
 4. Choose whatever language you wish. Some options you might consider: Ruby, GoLang, Python, Scala, Erlang, Haskell, Javascript, and Clojure.
 5. Do NOT use a full-stack framework such as rails or django. You can use specific components of frameworks, however. (Ex: ActiveRecord)
 
 Things you don't need:
 
-1. Both an API Backend and working UI.  (Feel free to build only one.  API endpoints *or* UI flow.)
+1. Both an API Backend and working UI.  (Feel free to build only one.  API endpoints **or** UI flow.)
 2. Persistence.  (You can  persist in-memory for now.)
 3. Full implementation of the machine.  (One or two actions is enough.)
 4. Unit tests.  (Really. We won't judge you.)
