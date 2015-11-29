@@ -80,12 +80,34 @@ Things you don't need:
 }
 ```
 
-Please commit your work to branches in this repo and send us Pull Requests early. We will follow along as you add more commits, commenting and collaborating with you. You have as much or as little time as you want. If you are not sure how to best do this you can open an issue on the repository to discuss the design and test strategy.
+Please commit your work to branches in this repo and send us Pull Requests early. You can mark them as 'wip' until they are 'ready for review.'
+We will follow along as you add more commits, commenting and collaborating with you. You have as much or as little time as you want. If you are not sure how to best do this you can open an issue on the repository to discuss the design and test strategy.
 
 ## What we are looking for
 
-* Tests to verify correctness.
-* Small commits.
-* Simplicity: how did tests drive your design and help you arrive at the simplest solution both for the API and implementation.
-* How does git and github factor into your development process.
-* How do you communicate with the team and incorporate feedback.
+* Thoughtfulness.
+* Simplicity and speed.
+* How do you communicate and incorporate feedback.
+
+## Some guidelines to help you get started
+
+As you will notice, this is not a simple algorithms or computer science test.  We are trying to get an idea for how you think and how you communicate as a teammate.  
+  
+Some things you might want to consider doing to help us along:
+
+* Open pull-requests early.  
+* Document your thinking (either in a PR or an Issue)
+  * Why did you choose the frameworks and libraries you did?
+  * What functionality did you choose to focus on?  To omit?  Why?
+  * What were your design/archetecture considerations?
+* Open issues with any questions you have.
+  * What isn't clear to you?
+  * Which assumptions are you making because of lacking information?
+  * Don't feel obligated to wait for answers.  Feel free to make assumptions and proceed.
+
+
+## Time Limitations
+
+There are no strict time limitations on this code challenge.  We generally asks that people submit for final review within 5 days from starting.  This helps us ensure that the challenge doesn't get stale or lost in among our various priorities. 
+
+**When you feel as though your work is complete, please let us know via a final pull-request or opening an issue.**
