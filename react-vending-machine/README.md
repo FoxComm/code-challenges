@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to your Github coding test!
+Welcome to your Github coding challenge!
 
 Thank you for the time you've spent with us during the interview process. This is the last step of our process and it is
 designed to be relatively quick. We appreciate both your time and patience!
@@ -13,7 +13,7 @@ Good luck!
 
 ## Problem
 
-Create a test-driven [vending machine](https://en.wikipedia.org/wiki/Vending_machine) using react.js and any other technologies you wish.  
+Create a [vending machine](https://en.wikipedia.org/wiki/Vending_machine) using react.js and any other technologies you wish.  
 The vending machine can take any currency you wish, and can sell any products you wish.  
 The vending machine should be API driven and respond to basic commands, such as `pay` and `select_products` 
 
