@@ -14,7 +14,7 @@ Good luck!
 
 ## Problem
 
-Create a test-driven [vending machine](https://en.wikipedia.org/wiki/Vending_machine) in the language of your choice.  
+Create a [vending machine](https://en.wikipedia.org/wiki/Vending_machine) in the language of your choice.  
 The vending machine can take any currency you wish, and can sell any products you wish.  
 The vending machine can either take the form of an API or a UI (you do not have to implement both).  The vending machine should respond to basic commands, such as `pay` and `select_products` 
 
