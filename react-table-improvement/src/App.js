@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-require('../public/bootstrap.css');
-
 import { createStore } from 'redux'
 import { Provider } from 'react-redux';
 import tables from './modules/dataTable';
