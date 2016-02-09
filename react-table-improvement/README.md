@@ -27,6 +27,10 @@ Your boss has given you the table component contained in this repository and ask
 Please commit your work to branches in this repo and send us Pull Requests early. You can mark them as 'wip' until they are 'ready for review.'
 We will follow along as you add more commits, commenting and collaborating with you. You have as much or as little time as you want. If you are not sure how to best do this you can open an issue on the repository to discuss the design and architecture.
 
+### Bonus Opportunities (Optional)
+
+1. Your boss mentions that the table has no styles currently.  She asks you to do some quick styling in advance of the demo to ensure it impresses the client.  Use your best judgment on aesthetics.
+
 ## What we are looking for
 
 * Thoughtfulness.
